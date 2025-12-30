@@ -12,17 +12,17 @@ It focuses on business questions, insight extraction, and decision-oriented visu
 
 # Key Business Questions Answered
 
-Which car models dominate the used car market?
+- Which car models dominate the used car market?
 
-What brands command the highest selling prices?
+- What brands command the highest selling prices?
 
-How do mileage, power, and engine capacity trade off?
+- How do mileage, power, and engine capacity trade off?
 
-Which fuel types show higher vehicle usage?
+- Which fuel types show higher vehicle usage?
 
-How do manual vs automatic cars differ in performance?
+- How do manual vs automatic cars differ in performance?
 
-Who sells more cars — dealers or individuals?
+- Who sells more cars — dealers or individuals?
 If your dashboard can’t answer questions like these, it’s useless. This one does.
 
 # 📊 Dashboards Included
@@ -40,6 +40,8 @@ Transmission and seller type split
 
 Built for leadership-style consumption.
 
+<img width="1122" height="630" alt="executive summary dashboard" src="https://github.com/user-attachments/assets/c72972fe-39bc-4b09-bf0b-58628e83705e" />
+
 2️⃣ Brand Analysis
 
 Deep dive into:
@@ -54,6 +56,8 @@ Top & bottom performers by mileage and power
 
 Focused on brand positioning and market dominance.
 
+<img width="1127" height="630" alt="brand analysis dashboard" src="https://github.com/user-attachments/assets/89debf01-30fa-437a-8731-79cf4b35a13a" />
+
 3️⃣ Drive Insights
 
 Performance and usage analysis:
@@ -66,7 +70,9 @@ Driving mode comparison (Manual vs Automatic)
 
 This section exposes real-world trade-offs, not marketing claims.
 
-🛠 Tools & Technologies Used
+<img width="1127" height="630" alt="drive insights dashboard" src="https://github.com/user-attachments/assets/cb2e9a68-0ccc-4b59-8667-715c3f4bf899" />
+
+# 🛠 Tools & Technologies Used
 
 Power BI – Data modeling, DAX, dashboarding
 
